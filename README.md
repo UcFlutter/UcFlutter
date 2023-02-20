@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uche Emmanuel
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning and improving my skills in Mobile Developmen
+- 🌱 I’m currently learning and improving my skills in Mobile Development
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me ...
 
